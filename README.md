@@ -1,6 +1,6 @@
 # About Me!
 - 🌤 Hi, I’m @jusicon
-- 💫 I’m interested in coding, etc...
+- 💫 I’m interested in coding, design, music, getting the bag, etc...
 - 💻 I’m currently learning Javascript (discord.js)
 
 # My Socials!
