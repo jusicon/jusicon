@@ -1,13 +1,13 @@
 <div align="center" dir="auto">
   <h1 dir="auto">
-  <a id="user-content-hi-there-im-mrfluffycloud" class="anchor" aria-hidden="true" href="#hi-there-im-mrfluffycloud">
+  <a id="" class="anchor" aria-hidden="true" href="#">
     </a>
 		 Hey!, I'm 
     <a href="https://github.com/jusicon">Jusicon</a>
   !💜
   </h1>
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/766336320624132226)](https://discord.com/users/766336320624132226)
+[![Discord Presence](https://lanyard.cnrad.dev/api/766336320624132226?idleMessage=floating+in+space!)](https://discord.com/users/766336320624132226)
 </div>
 
 # About Me!
