@@ -1,9 +1,10 @@
+# Discord Presence
+[![Discord Presence](https://lanyard.cnrad.dev/api/766336320624132226)](https://discord.com/users/766336320624132226)
+
 # About Me!
 - 🌤 Hi, I’m @jusicon
 - 💫 I’m interested in coding, design, music, getting the bag, etc...
 - 💻 I’m currently learning Javascript (discord.js)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/766336320624132226)](https://discord.com/users/766336320624132226)
 
 # My Socials!
 - 📸 [Instagram](https://instagram.com/jus.i.con)
