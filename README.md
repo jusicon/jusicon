@@ -1,9 +1,14 @@
-<p align="center">
-  <b>Hey! I am Jusicon💜</b>
-</p>
-
+<div align="center" dir="auto">
+  <h1 dir="auto">
+  <a id="user-content-hi-there-im-mrfluffycloud" class="anchor" aria-hidden="true" href="#hi-there-im-mrfluffycloud">
+    </a>
+		 Hey!, I'm 
+    <a href="https://github.com/jusicon">Jusicon</a>
+  !💜
+  </h1>
+  
 [![Discord Presence](https://lanyard.cnrad.dev/api/766336320624132226)](https://discord.com/users/766336320624132226)
-</p>
+</div>
 
 # About Me!
 - 🌤 Hi, I’m @jusicon
