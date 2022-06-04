@@ -1,8 +1,7 @@
 <p align="center">
-# Hey! I am Jusicon💜
+  <b>Hey! I am Jusicon💜</b>
 </p>
 
-<p align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/766336320624132226)](https://discord.com/users/766336320624132226)
 </p>
 
