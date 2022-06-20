@@ -12,12 +12,12 @@
 
 # About Me!
 - 🌤 Hi, I’m @jusicon
-- 💫 I’m interested in coding, design, music, getting the bag, etc...
-- 💻 I’m currently learning Javascript (discord.js)
+- 💫 I’m interested in coding, web-design, designing, and music.
+- 💻 I’m currently learning Javascript & Web Development.
 
 # My Socials!
-- 📸 [Instagram](https://instagram.com/jus.i.con)
-- 🎬 [YouTube](https://youtube.com/Jusicon)
+- ☔️ https:/jusicon.xyz
+- 📸 [Instagram](https://instagram.com/jusiconn)
 - 👾 [Discord](https://dsc.gg/ad-café)
 <!---
 jusicon/jusicon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
