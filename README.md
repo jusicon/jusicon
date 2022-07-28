@@ -16,7 +16,7 @@
 - 💻 I’m currently learning Javascript & Web Development.
 
 # My Socials!
-- ☔️ https:/jusicon.xyz
+- ☔️ https://jusicon.xyz
 - 📸 [Instagram](https://instagram.com/jusiconn)
 - 👾 [Discord](https://dsc.gg/ad-café)
 <!---
