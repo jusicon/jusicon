@@ -1,4 +1,4 @@
-fr<div align="center" dir="auto">
+<div align="center" dir="auto">
   <h1 dir="auto">
   <a id="" class="anchor" aria-hidden="true" href="#">
     </a>
@@ -11,7 +11,7 @@ fr<div align="center" dir="auto">
 
 # About Me!
 - 💫 A few interests: design, music, fashion, cars.
-- 💻 Web Developer & aspiring Software Developer.
+- 💻 Web Developer & Aspiring Software Developer.
 
 # My Socials!
 - ☔️ https://jusicon.xyz
