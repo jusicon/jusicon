@@ -16,7 +16,6 @@ fr<div align="center" dir="auto">
 # My Socials!
 - ☔️ https://jusicon.xyz
 - 📸 [Instagram](https://instagram.com/jusiconn)
-- 👾 [Discord](https://dsc.gg/ad-café)
 <!---
 jusicon/jusicon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
