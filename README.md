@@ -10,7 +10,6 @@ fr<div align="center" dir="auto">
 </div>
 
 # About Me!
-- 🌤 Hey, I’m @jusicon
 - 💫 A few interests: design, music, fashion, cars.
 - 💻 Aspiring Software Developer.
 
