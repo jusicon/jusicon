@@ -12,7 +12,7 @@
 
 # About Me!
 - 🌤 Hey, I’m @jusicon
-- 💫 A few interests: design, music, fashion/
+- 💫 A few interests: design, music, fashion, cars.
 - 💻 Aspiring Software Engineer.
 
 # My Socials!
