@@ -11,9 +11,9 @@
 </div>
 
 # About Me!
-- 🌤 Hi, I’m @jusicon
-- 💫 I’m interested in coding, web-design, designing, and music.
-- 💻 I’m currently learning Javascript & Web Development.
+- 🌤 Hey, I’m @jusicon
+- 💫 A few interests: design, music, fashion/
+- 💻 Aspiring Software Engineer.
 
 # My Socials!
 - ☔️ https://jusicon.xyz
