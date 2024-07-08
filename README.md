@@ -10,8 +10,8 @@
 </div>
 
 # About Me!
-- 💫 A few interests: design, music, fashion, cars.
-- 💻 Web Developer & Aspiring Software Developer.
+- Interests: Tech, Design, Music, Fashion, & Cars.
+- Web Developer & Aspiring Software Developer.
 
 # My Socials!
 - ☔️ https://jusicon.xyz
