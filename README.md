@@ -11,7 +11,7 @@ fr<div align="center" dir="auto">
 
 # About Me!
 - 💫 A few interests: design, music, fashion, cars.
-- 💻 Aspiring Software Developer.
+- 💻 Web Developer & aspiring Software Developer.
 
 # My Socials!
 - ☔️ https://jusicon.xyz
