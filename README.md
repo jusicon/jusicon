@@ -6,11 +6,8 @@
     <a href="https://jusicon.xyz">Jusicon</a>
   </h1>
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/766336320624132226?idleMessage=floating+in+space!)](https://discord.com/users/766336320624132226)
-</div>
 
 # About Me!
-- Interests: Tech, Design, Music, Fashion, & Cars.
 - Web Developer & Aspiring Software Developer.
 
 # My Socials!
