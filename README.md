@@ -2,13 +2,11 @@
   <h1 dir="auto">
   <a id="" class="anchor" aria-hidden="true" href="#">
     </a>
-		 Hey!, I'm 
+		 Hey! I'm 
     <a href="https://jusicon.xyz">Jusicon</a>
   </h1>
   
-
-# About Me!
-- Web Developer & Aspiring Software Developer.
+Web Developer & Aspiring Software Developer.
 
 # My Socials!
 - ☔️ https://jusicon.xyz
